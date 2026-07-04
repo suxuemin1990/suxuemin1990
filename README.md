@@ -43,24 +43,11 @@
 
 ---
 
-## 📊 GitHub 数据 · Stats
+## 🔥 连续提交 · Streak
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suxuemin1990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8b7cf6&icon_color=8b7cf6" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxuemin1990&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b7cf6&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=suxuemin1990&theme=tokyonight&hide_border=true&background=0d1117&ring=8b7cf6&fire=8b7cf6&currStreakLabel=8b7cf6" />
-
-</div>
-
----
-
-## 🏆 成就 · Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suxuemin1990&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
