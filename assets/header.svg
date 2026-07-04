@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#282a36"/>
+      <stop offset="1" stop-color="#44475a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bd93f9"/>
+      <stop offset="0.5" stop-color="#ff79c6"/>
+      <stop offset="1" stop-color="#8be9fd"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;2;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="6" fill="url(#accent)"/>
+  <text x="450" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="54" font-weight="700" fill="#f8f8f2" opacity="0">suxuemin1990<animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/></text>
+  <text x="450" y="126" text-anchor="middle" font-family="'Consolas','Courier New',monospace" font-size="18" fill="#bd93f9" opacity="0">AI Training Platform &#183; Dev &amp; Architect<animate attributeName="opacity" values="0;1" dur="1s" begin="0.4s" fill="freeze"/></text>
+  <g font-family="'Consolas','Courier New',monospace" font-size="18" fill="#50fa7b" text-anchor="middle">
+    <text x="450" y="172" opacity="0">Building AI training platforms<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.02;0.23;0.25;1" values="0;1;1;0;0"/></text>
+    <text x="450" y="172" opacity="0">GPU sharing &amp; scheduling on Kubernetes<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.25;0.27;0.48;0.5;1" values="0;0;1;1;0;0"/></text>
+    <text x="450" y="172" opacity="0">From big data to MLOps<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.5;0.52;0.73;0.75;1" values="0;0;1;1;0;0"/></text>
+    <text x="450" y="172" opacity="0">Digging into internals, chasing what's new<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.75;0.77;0.98;1" values="0;0;1;1;0"/></text>
+  </g>
+  <path d="M0 200 Q225 180 450 200 T900 200 V220 H0 Z" fill="#bd93f9" opacity="0.25"/>
+</svg>
